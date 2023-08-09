@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, React Native, GraphQL, and GCP**
 
-- 👨‍💻 All of my projects are available at [muhamadtaufiksatya.netlify.app](muhamadtaufiksatya.netlify.app)
+- 👨‍💻 All of my projects are available at [muhamadtaufiksatya.netlify.app](https://muhamadtaufiksatya.netlify.app/)
 
 - 💬 Ask me about **React, Express, and Codeigniter**
 
