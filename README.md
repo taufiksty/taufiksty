@@ -1,5 +1,3 @@
-[![An image of @taufiksty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taufiksty)](https://holopin.io/@taufiksty)
-
 <h1 align="center">Hi 👋, I'm Muhamad Taufik Satya</h1>
 <h3 align="center">A passionate full stack web developer from Indonesia</h3>
 
