@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taufiksty&label=Profile%20views&color=0e75b6&style=flat" alt="taufiksty" /> </p>
 
-- 🌱 I’m currently learning **NextJS, React Native, GraphQL, and GCP**
+- 🌱 I’m currently learning **NextJs, React Native, Go, and AWS/GCP**
 
 - 👨‍💻 All of my projects are available at [muhamadtaufiksatya.netlify.app](https://muhamadtaufiksatya.netlify.app/)
 
