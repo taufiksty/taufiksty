@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taufiksty&show_icons=true&locale=en" alt="taufiksty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taufiksty&" alt="taufiksty" /></p>
+
+[![An image of @taufiksty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taufiksty)](https://holopin.io/@taufiksty)
